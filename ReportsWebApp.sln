@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReportsWebApp", "ReportsWebApp\ReportsWebApp.csproj", "{37F5B36E-5023-4D1D-A25A-77F01FE73948}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthCommon", "AuthCommon\AuthCommon.csproj", "{59B4F5BA-73D3-4917-8DEB-0065C19325C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37F5B36E-5023-4D1D-A25A-77F01FE73948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37F5B36E-5023-4D1D-A25A-77F01FE73948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37F5B36E-5023-4D1D-A25A-77F01FE73948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37F5B36E-5023-4D1D-A25A-77F01FE73948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B4F5BA-73D3-4917-8DEB-0065C19325C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B4F5BA-73D3-4917-8DEB-0065C19325C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B4F5BA-73D3-4917-8DEB-0065C19325C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B4F5BA-73D3-4917-8DEB-0065C19325C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {014ED938-4DEC-4751-8044-759E455A149F}
+	EndGlobalSection
+EndGlobal
